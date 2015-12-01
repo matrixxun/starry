@@ -7,7 +7,7 @@ API level 9+ supported
 ## Example
 <img src="https://raw.githubusercontent.com/matrixxun/starry/master/apk/b9fa50fc85a1012c1d5156c0ba68ed55.png" width="300"> 
 
-See example code here on Github. You can also see it live downloading [this apk](https://github.com/matrixxun/starry/blob/master/apk/StarryApp_20150604000235_7zip.apk)
+See example code here on Github. You can also see it live downloading [this apk](https://github.com/matrixxun/starry/raw/master/app/starry_sample.apk)
 
 License
 --------
