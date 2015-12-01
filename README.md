@@ -7,7 +7,7 @@ API level 9+ supported
 ## Example
 <img src="https://github.com/matrixxun/starry/raw/master/apk/qrcode.png" width="300"> 
 
-See example code here on Github. You can also see it live downloading [this apk](https://github.com/matrixxun/starry/raw/master/apk/starry_sample.apk)
+See example code here on Github. You can also see it live downloading [this apk](https://raw.githubusercontent.com/matrixxun/starry/master/apk/starry_sample.apk)
 
 License
 --------
