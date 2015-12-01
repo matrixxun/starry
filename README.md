@@ -1,5 +1,5 @@
 # starry
-Starry is an material design sample project.
+starry is a material design sample project.
 
 ## Compat
 API level 9+ supported
